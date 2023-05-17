@@ -42,6 +42,7 @@ const [r, o, y, g, b, i, v] = colors;
 const [, , , , , indg,] = colors;
 
 // Objects
+
 const {muppetName, color, song, job, partner} = muppet;
 
 const {album:{theMuppetMovie:{song2, song4}}, nestedJob, nestedPartner} = nestedMuppet;
